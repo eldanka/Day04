@@ -8,4 +8,4 @@ function main() {
 
 
 console.log(main());
-modul.exports = main;
+module.exports = main;
